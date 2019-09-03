@@ -2,4 +2,6 @@
 
 echo "Golfvit";
 
+echo "TEST";
+
 ?>
